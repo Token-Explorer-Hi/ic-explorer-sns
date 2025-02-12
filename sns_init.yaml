@@ -9,7 +9,7 @@ url: https://icexplorer.io
 
 NnsProposal:
   title: "NNS Proposal to create an SNS named 'ICExplorer'"
-  url: https://forum.dfinity.org/
+  url: https://forum.dfinity.org/t/upcoming-icexplorer-sns-decentralization-sale/40620
 
   summary: |
     # Summary
@@ -141,16 +141,17 @@ Swap:
   maximum_participant_icp: 50_000 tokens
 
   restricted_countries:
-    - AF  
+    - AF
     - BY
     - BA
     - BI
-    - CF
-    - KP
     - CD
+    - CF
+    - CN
     - CU
     - IR
     - IQ
+    - KP
     - LB
     - LY
     - ML
@@ -163,6 +164,7 @@ Swap:
     - SD
     - SY
     - UA
+    - US
     - VE
     - YE
     - ZW
